@@ -5,12 +5,12 @@ date: Agosto-Setiembre 2025
 title: Plan Taller PUCP 2025
 ---
 
-# Nombre del taller
+## 1 Nombre del taller
 
 Aproximaciones y herramientas computacionales para el estudio histórico
 y tipológico de lenguas
 
-# Sumilla
+## 2 Sumilla
 
 En este taller, hablaremos de y manejaremos herramientas que asistan al
 análisis histórico y tipológico lingüístico. La idea es revisar
@@ -26,7 +26,7 @@ repasadas en el taller nos apoyan para procesar la data e interpretarla
 con el objetivo de responder tales preguntas. Para el taller no se
 necesita ningún conocimiento previo de computación.
 
-# Temario
+## 3 Temario
 
 | **Sesión** | **Fecha**            | **Hora**  | **Tema y contenidos** |
 |------------|----------------------|-----------|------------------------|
@@ -37,7 +37,7 @@ necesita ningún conocimiento previo de computación.
 | 5          | Jueves 04 de setiembre | 6–8 p.m. | Estudio de caso: Filolingüística <br> - Métodos para inferir árboles genealógicos <br> - Corriendo MrBayes <br> - Interpretando los resultados |
 
 
-# Actividades para casa
+## 4 Actividades para casa
 
 Se informarán las activades para la casa al final de casa sesión y
 podrán ser encontradas en el handout respectivo a la sesión. Las
