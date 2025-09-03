@@ -28,7 +28,7 @@ for lang, forms in lang_forms.items():
             for c1, c2 in itertools.combinations(sorted(concepts), 2):
                 colex_counts[(c1, c2)] += 1
 
-# Guardar salida
+# Guardar data en un archivo output
 with open(output_file, "w", encoding="utf-8", newline="") as f:
     writer = csv.writer(f, delimiter="\t")
     writer.writerow(["Concepto 1", "Concepto 2", "Colexifican"])
